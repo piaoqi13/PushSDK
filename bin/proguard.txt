@@ -1,0 +1,36 @@
+# view AndroidManifest.xml #generated:70
+-keep class com.umeng.message.ElectionReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:62
+-keep class com.umeng.message.MessageReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:43
+-keep class com.umeng.message.NotificationProxyBroadcastReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:80
+-keep class com.umeng.message.RegistrationReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:47
+-keep class com.umeng.message.SystemReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:142
+-keep class com.umeng.message.UmengDownloadResourceService { <init>(...); }
+
+# view AndroidManifest.xml #generated:111
+-keep class com.umeng.message.UmengIntentService { <init>(...); }
+
+# view AndroidManifest.xml #generated:87
+-keep class com.umeng.message.UmengMessageBootReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:126
+-keep class com.umeng.message.UmengMessageCallbackHandlerService { <init>(...); }
+
+# view AndroidManifest.xml #generated:114
+-keep class com.umeng.message.UmengMessageIntentReceiverService { <init>(...); }
+
+# view AndroidManifest.xml #generated:93
+-keep class com.umeng.message.UmengService { <init>(...); }
+
+# view AndroidManifest.xml #generated:145
+-keep class com.umeng.message.local.UmengLocalNotificationService { <init>(...); }
+
